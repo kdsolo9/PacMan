@@ -1,0 +1,11 @@
+{
+  "name": "fds_tech_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js test0.txt && node main.js test1.txt && node main.js test2.txt && node main.js test3.txt && node main.js test4.txt && node main.js test5.txt && node main.js test6.txt && node main.js test7.txt"
+  },
+  "author": "",
+  "license": "Kian"
+}
